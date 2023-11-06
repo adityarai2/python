@@ -1,7 +1,4 @@
-print("enter the marks of math")
-print("enter the marks of physics")
-print("enter the marks of chemistry:")
-marks=int("math,physics,chemistry")
-total=(math+physics+chemistry)
+marks=physics=76 , maths=78,chemistry =88
+total= ["physics"]+["chemistry"]+["maths"]
 percentage= int(total/300)*100
 print("your percentage =",percentage)
